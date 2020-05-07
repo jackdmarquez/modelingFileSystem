@@ -1,0 +1,1248 @@
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588527405	1	1	8192 MB	1 MB		880 MB / sec.	9.296 second(s).	9.296 second(s).	9.304 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m9.358s
+user	0m0.027s
+sys	0m7.547s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588527486	1	1	8192 MB	1 MB		1030 MB / sec.	7.931 second(s).	7.931 second(s).	7.946 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.977s
+user	0m0.021s
+sys	0m7.924s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545175	1	1	8192 MB	1 MB		905 MB / sec.	9.040 second(s).	9.040 second(s).	9.047 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m9.082s
+user	0m0.015s
+sys	0m8.204s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545255	1	1	8192 MB	1 MB		981 MB / sec.	8.339 second(s).	8.339 second(s).	8.345 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.372s
+user	0m0.018s
+sys	0m8.322s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545570	1	1	8192 MB	1 MB		999 MB / sec.	8.187 second(s).	8.187 second(s).	8.194 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.219s
+user	0m0.014s
+sys	0m8.177s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545648	1	1	8192 MB	1 MB		1012 MB / sec.	8.086 second(s).	8.086 second(s).	8.092 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.117s
+user	0m0.009s
+sys	0m8.047s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545728	1	1	8192 MB	1 MB		973 MB / sec.	8.405 second(s).	8.405 second(s).	8.412 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.547s
+user	0m0.015s
+sys	0m8.394s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545806	1	1	8192 MB	1 MB		1006 MB / sec.	8.136 second(s).	8.136 second(s).	8.141 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.233s
+user	0m0.015s
+sys	0m8.126s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545885	1	1	8192 MB	1 MB		977 MB / sec.	8.379 second(s).	8.379 second(s).	8.385 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.419s
+user	0m0.017s
+sys	0m8.366s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588545964	1	1	8192 MB	1 MB		1007 MB / sec.	8.119 second(s).	8.119 second(s).	8.129 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.234s
+user	0m0.022s
+sys	0m8.107s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546042	1	1	8192 MB	1 MB		1038 MB / sec.	7.880 second(s).	7.880 second(s).	7.890 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.922s
+user	0m0.014s
+sys	0m7.877s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546121	1	1	8192 MB	1 MB		1020 MB / sec.	8.018 second(s).	8.018 second(s).	8.028 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.060s
+user	0m0.015s
+sys	0m8.011s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546200	1	1	8192 MB	1 MB		993 MB / sec.	8.235 second(s).	8.235 second(s).	8.243 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.269s
+user	0m0.014s
+sys	0m8.228s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546279	1	1	8192 MB	1 MB		966 MB / sec.	8.469 second(s).	8.469 second(s).	8.478 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.557s
+user	0m0.018s
+sys	0m8.456s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546357	1	1	8192 MB	1 MB		996 MB / sec.	8.217 second(s).	8.217 second(s).	8.222 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.305s
+user	0m0.009s
+sys	0m8.209s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546435	1	1	8192 MB	1 MB		1001 MB / sec.	8.172 second(s).	8.172 second(s).	8.178 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.268s
+user	0m0.014s
+sys	0m8.162s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546513	1	1	8192 MB	1 MB		1044 MB / sec.	7.839 second(s).	7.839 second(s).	7.844 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.876s
+user	0m0.006s
+sys	0m7.838s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546592	1	1	8192 MB	1 MB		1041 MB / sec.	7.864 second(s).	7.864 second(s).	7.869 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.903s
+user	0m0.007s
+sys	0m7.850s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546670	1	1	8192 MB	1 MB		1033 MB / sec.	7.917 second(s).	7.917 second(s).	7.927 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.288s
+user	0m0.017s
+sys	0m7.910s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546749	1	1	8192 MB	1 MB		997 MB / sec.	8.206 second(s).	8.206 second(s).	8.213 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.251s
+user	0m0.014s
+sys	0m8.177s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546829	1	1	8192 MB	1 MB		969 MB / sec.	8.441 second(s).	8.441 second(s).	8.451 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.786s
+user	0m0.021s
+sys	0m8.436s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546908	1	1	8192 MB	1 MB		1006 MB / sec.	8.129 second(s).	8.129 second(s).	8.137 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.207s
+user	0m0.020s
+sys	0m8.113s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588546986	1	1	8192 MB	1 MB		1058 MB / sec.	7.736 second(s).	7.736 second(s).	7.740 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.815s
+user	0m0.014s
+sys	0m7.725s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547065	1	1	8192 MB	1 MB		968 MB / sec.	8.449 second(s).	8.449 second(s).	8.454 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.488s
+user	0m0.012s
+sys	0m8.441s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547143	1	1	8192 MB	1 MB		1040 MB / sec.	7.866 second(s).	7.866 second(s).	7.870 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.899s
+user	0m0.014s
+sys	0m7.858s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547223	1	1	8192 MB	1 MB		1005 MB / sec.	8.141 second(s).	8.141 second(s).	8.148 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.176s
+user	0m0.016s
+sys	0m8.099s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547302	1	1	8192 MB	1 MB		981 MB / sec.	8.338 second(s).	8.338 second(s).	8.346 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.378s
+user	0m0.016s
+sys	0m8.326s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547382	1	1	8192 MB	1 MB		1008 MB / sec.	8.116 second(s).	8.116 second(s).	8.123 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.180s
+user	0m0.020s
+sys	0m8.103s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547460	1	1	8192 MB	1 MB		957 MB / sec.	8.543 second(s).	8.543 second(s).	8.552 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.616s
+user	0m0.011s
+sys	0m8.540s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547540	1	1	8192 MB	1 MB		986 MB / sec.	8.294 second(s).	8.294 second(s).	8.301 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.400s
+user	0m0.017s
+sys	0m8.284s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547620	1	1	8192 MB	1 MB		1009 MB / sec.	8.110 second(s).	8.110 second(s).	8.116 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.152s
+user	0m0.021s
+sys	0m8.070s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547698	1	1	8192 MB	1 MB		986 MB / sec.	8.295 second(s).	8.295 second(s).	8.303 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.473s
+user	0m0.010s
+sys	0m8.292s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547778	1	1	8192 MB	1 MB		1027 MB / sec.	7.965 second(s).	7.965 second(s).	7.974 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.005s
+user	0m0.015s
+sys	0m7.959s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547856	1	1	8192 MB	1 MB		992 MB / sec.	8.251 second(s).	8.251 second(s).	8.257 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.286s
+user	0m0.019s
+sys	0m8.236s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588547936	1	1	8192 MB	1 MB		973 MB / sec.	8.411 second(s).	8.411 second(s).	8.418 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.796s
+user	0m0.011s
+sys	0m8.405s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548014	1	1	8192 MB	1 MB		974 MB / sec.	8.396 second(s).	8.396 second(s).	8.404 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.490s
+user	0m0.022s
+sys	0m8.381s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548094	1	1	8192 MB	1 MB		1042 MB / sec.	7.854 second(s).	7.854 second(s).	7.861 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.891s
+user	0m0.012s
+sys	0m7.849s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548173	1	1	8192 MB	1 MB		1042 MB / sec.	7.853 second(s).	7.853 second(s).	7.862 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.893s
+user	0m0.012s
+sys	0m7.846s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548252	1	1	8192 MB	1 MB		952 MB / sec.	8.589 second(s).	8.589 second(s).	8.597 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.632s
+user	0m0.018s
+sys	0m8.577s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548330	1	1	8192 MB	1 MB		997 MB / sec.	8.205 second(s).	8.205 second(s).	8.213 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.248s
+user	0m0.008s
+sys	0m8.200s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548409	1	1	8192 MB	1 MB		1079 MB / sec.	7.580 second(s).	7.580 second(s).	7.587 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.665s
+user	0m0.012s
+sys	0m7.574s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548488	1	1	8192 MB	1 MB		1025 MB / sec.	7.984 second(s).	7.984 second(s).	7.991 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.072s
+user	0m0.014s
+sys	0m7.975s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548566	1	1	8192 MB	1 MB		1001 MB / sec.	8.173 second(s).	8.173 second(s).	8.181 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.755s
+user	0m0.023s
+sys	0m8.158s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548646	1	1	8192 MB	1 MB		995 MB / sec.	8.220 second(s).	8.220 second(s).	8.230 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.330s
+user	0m0.025s
+sys	0m8.203s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548725	1	1	8192 MB	1 MB		1047 MB / sec.	7.815 second(s).	7.815 second(s).	7.824 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.853s
+user	0m0.020s
+sys	0m7.799s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548803	1	1	8192 MB	1 MB		1025 MB / sec.	7.980 second(s).	7.980 second(s).	7.986 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.176s
+user	0m0.011s
+sys	0m7.974s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548881	1	1	8192 MB	1 MB		967 MB / sec.	8.457 second(s).	8.457 second(s).	8.468 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.529s
+user	0m0.019s
+sys	0m8.443s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588548959	1	1	8192 MB	1 MB		968 MB / sec.	8.451 second(s).	8.451 second(s).	8.458 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.813s
+user	0m0.010s
+sys	0m8.445s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549038	1	1	8192 MB	1 MB		1064 MB / sec.	7.685 second(s).	7.685 second(s).	7.692 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.010s
+user	0m0.016s
+sys	0m7.676s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549118	1	1	8192 MB	1 MB		960 MB / sec.	8.522 second(s).	8.522 second(s).	8.530 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.888s
+user	0m0.020s
+sys	0m8.509s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549198	1	1	8192 MB	1 MB		1012 MB / sec.	8.079 second(s).	8.079 second(s).	8.092 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.128s
+user	0m0.017s
+sys	0m8.073s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549276	1	1	8192 MB	1 MB		972 MB / sec.	8.410 second(s).	8.410 second(s).	8.420 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.447s
+user	0m0.011s
+sys	0m8.404s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549354	1	1	8192 MB	1 MB		1033 MB / sec.	7.915 second(s).	7.915 second(s).	7.925 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.958s
+user	0m0.030s
+sys	0m7.896s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549433	1	1	8192 MB	1 MB		1028 MB / sec.	7.955 second(s).	7.955 second(s).	7.965 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.995s
+user	0m0.016s
+sys	0m7.948s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549511	1	1	8192 MB	1 MB		1046 MB / sec.	7.823 second(s).	7.823 second(s).	7.831 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.856s
+user	0m0.013s
+sys	0m7.814s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549591	1	1	8192 MB	1 MB		1034 MB / sec.	7.915 second(s).	7.915 second(s).	7.921 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.020s
+user	0m0.012s
+sys	0m7.908s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549670	1	1	8192 MB	1 MB		1013 MB / sec.	8.077 second(s).	8.077 second(s).	8.083 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.513s
+user	0m0.018s
+sys	0m8.062s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549748	1	1	8192 MB	1 MB		997 MB / sec.	8.203 second(s).	8.203 second(s).	8.210 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.243s
+user	0m0.022s
+sys	0m8.187s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549829	1	1	8192 MB	1 MB		980 MB / sec.	8.350 second(s).	8.350 second(s).	8.358 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.421s
+user	0m0.013s
+sys	0m8.347s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549908	1	1	8192 MB	1 MB		984 MB / sec.	8.319 second(s).	8.319 second(s).	8.324 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.357s
+user	0m0.009s
+sys	0m8.312s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588549988	1	1	8192 MB	1 MB		991 MB / sec.	8.245 second(s).	8.245 second(s).	8.260 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.288s
+user	0m0.013s
+sys	0m8.239s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550068	1	1	8192 MB	1 MB		986 MB / sec.	8.295 second(s).	8.295 second(s).	8.304 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.382s
+user	0m0.024s
+sys	0m8.277s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550147	1	1	8192 MB	1 MB		967 MB / sec.	8.461 second(s).	8.461 second(s).	8.468 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.533s
+user	0m0.012s
+sys	0m8.453s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550227	1	1	8192 MB	1 MB		1000 MB / sec.	8.183 second(s).	8.183 second(s).	8.189 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.216s
+user	0m0.012s
+sys	0m8.176s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550306	1	1	8192 MB	1 MB		1044 MB / sec.	7.833 second(s).	7.833 second(s).	7.840 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.873s
+user	0m0.015s
+sys	0m7.826s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550385	1	1	8192 MB	1 MB		927 MB / sec.	8.825 second(s).	8.825 second(s).	8.832 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.863s
+user	0m0.014s
+sys	0m8.812s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550465	1	1	8192 MB	1 MB		1008 MB / sec.	8.111 second(s).	8.111 second(s).	8.123 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.152s
+user	0m0.024s
+sys	0m8.097s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550544	1	1	8192 MB	1 MB		1013 MB / sec.	8.073 second(s).	8.073 second(s).	8.079 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.162s
+user	0m0.013s
+sys	0m8.065s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550624	1	1	8192 MB	1 MB		990 MB / sec.	8.265 second(s).	8.265 second(s).	8.274 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.634s
+user	0m0.015s
+sys	0m8.260s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550704	1	1	8192 MB	1 MB		1040 MB / sec.	7.869 second(s).	7.869 second(s).	7.876 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.977s
+user	0m0.014s
+sys	0m7.861s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550781	1	1	8192 MB	1 MB		971 MB / sec.	8.427 second(s).	8.427 second(s).	8.433 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.459s
+user	0m0.017s
+sys	0m8.392s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550859	1	1	8192 MB	1 MB		983 MB / sec.	8.320 second(s).	8.320 second(s).	8.326 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.358s
+user	0m0.008s
+sys	0m8.297s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588550937	1	1	8192 MB	1 MB		1001 MB / sec.	8.170 second(s).	8.170 second(s).	8.183 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.212s
+user	0m0.018s
+sys	0m8.160s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551016	1	1	8192 MB	1 MB		1005 MB / sec.	8.142 second(s).	8.142 second(s).	8.151 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.188s
+user	0m0.024s
+sys	0m8.128s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551094	1	1	8192 MB	1 MB		1025 MB / sec.	7.980 second(s).	7.980 second(s).	7.989 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.051s
+user	0m0.028s
+sys	0m7.962s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551173	1	1	8192 MB	1 MB		1078 MB / sec.	7.587 second(s).	7.587 second(s).	7.593 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.678s
+user	0m0.013s
+sys	0m7.579s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551252	1	1	8192 MB	1 MB		1001 MB / sec.	8.178 second(s).	8.178 second(s).	8.184 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.274s
+user	0m0.011s
+sys	0m8.177s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551330	1	1	8192 MB	1 MB		1022 MB / sec.	8.007 second(s).	8.007 second(s).	8.014 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.046s
+user	0m0.010s
+sys	0m7.980s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551410	1	1	8192 MB	1 MB		982 MB / sec.	8.332 second(s).	8.332 second(s).	8.338 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.363s
+user	0m0.011s
+sys	0m8.326s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551489	1	1	8192 MB	1 MB		1035 MB / sec.	7.905 second(s).	7.905 second(s).	7.912 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.944s
+user	0m0.010s
+sys	0m7.898s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551570	1	1	8192 MB	1 MB		995 MB / sec.	8.220 second(s).	8.220 second(s).	8.231 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.269s
+user	0m0.037s
+sys	0m8.190s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551650	1	1	8192 MB	1 MB		1002 MB / sec.	8.161 second(s).	8.161 second(s).	8.168 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.261s
+user	0m0.017s
+sys	0m8.150s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551728	1	1	8192 MB	1 MB		1030 MB / sec.	7.942 second(s).	7.942 second(s).	7.952 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.028s
+user	0m0.021s
+sys	0m7.931s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551807	1	1	8192 MB	1 MB		982 MB / sec.	8.328 second(s).	8.328 second(s).	8.338 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.365s
+user	0m0.020s
+sys	0m8.304s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551885	1	1	8192 MB	1 MB		1031 MB / sec.	7.928 second(s).	7.928 second(s).	7.938 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.967s
+user	0m0.024s
+sys	0m7.915s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588551964	1	1	8192 MB	1 MB		1002 MB / sec.	8.160 second(s).	8.160 second(s).	8.169 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.196s
+user	0m0.011s
+sys	0m8.152s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552043	1	1	8192 MB	1 MB		1071 MB / sec.	7.635 second(s).	7.635 second(s).	7.644 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.680s
+user	0m0.008s
+sys	0m7.631s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552123	1	1	8192 MB	1 MB		950 MB / sec.	8.614 second(s).	8.614 second(s).	8.622 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.709s
+user	0m0.019s
+sys	0m8.602s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552201	1	1	8192 MB	1 MB		1052 MB / sec.	7.775 second(s).	7.775 second(s).	7.781 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.865s
+user	0m0.013s
+sys	0m7.768s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552281	1	1	8192 MB	1 MB		1026 MB / sec.	7.970 second(s).	7.970 second(s).	7.979 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.050s
+user	0m0.018s
+sys	0m8.005s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552361	1	1	8192 MB	1 MB		1010 MB / sec.	8.095 second(s).	8.095 second(s).	8.110 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.135s
+user	0m0.025s
+sys	0m8.077s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552440	1	1	8192 MB	1 MB		960 MB / sec.	8.517 second(s).	8.517 second(s).	8.527 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.554s
+user	0m0.015s
+sys	0m8.507s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552518	1	1	8192 MB	1 MB		1015 MB / sec.	8.056 second(s).	8.056 second(s).	8.066 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.097s
+user	0m0.009s
+sys	0m8.049s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552596	1	1	8192 MB	1 MB		953 MB / sec.	8.582 second(s).	8.582 second(s).	8.589 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.918s
+user	0m0.016s
+sys	0m8.572s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552675	1	1	8192 MB	1 MB		990 MB / sec.	8.262 second(s).	8.262 second(s).	8.267 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.706s
+user	0m0.018s
+sys	0m8.247s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552752	1	1	8192 MB	1 MB		1000 MB / sec.	8.177 second(s).	8.177 second(s).	8.186 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.614s
+user	0m0.010s
+sys	0m8.173s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552832	1	1	8192 MB	1 MB		1002 MB / sec.	8.165 second(s).	8.165 second(s).	8.171 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.640s
+user	0m0.006s
+sys	0m8.161s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552911	1	1	8192 MB	1 MB		1010 MB / sec.	8.099 second(s).	8.099 second(s).	8.105 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.136s
+user	0m0.017s
+sys	0m8.087s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588552991	1	1	8192 MB	1 MB		1050 MB / sec.	7.792 second(s).	7.792 second(s).	7.799 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m7.827s
+user	0m0.025s
+sys	0m7.776s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588553069	1	1	8192 MB	1 MB		1023 MB / sec.	7.993 second(s).	7.993 second(s).	8.002 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.111s
+user	0m0.015s
+sys	0m7.993s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588553147	1	1	8192 MB	1 MB		927 MB / sec.	8.826 second(s).	8.826 second(s).	8.833 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.862s
+user	0m0.013s
+sys	0m8.819s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588553228	1	1	8192 MB	1 MB		950 MB / sec.	8.609 second(s).	8.609 second(s).	8.617 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.745s
+user	0m0.017s
+sys	0m8.599s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588553307	1	1	8192 MB	1 MB		1013 MB / sec.	8.073 second(s).	8.073 second(s).	8.079 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.459s
+user	0m0.016s
+sys	0m8.062s
+Total no of chunks read,write: 8192
+
+Following stats are of write performance.
+
+Run	Timestamp	T	N	S	C	Aggregate throughput	lowest time		Highest time		Run time
+--------------------------------------------------------------------------------------
+1	1588553385	1	1	8192 MB	1 MB		999 MB / sec.	8.187 second(s).	8.187 second(s).	8.198 second(s).
+------------------------------------------------------------------------------------------------------
+
+real	0m8.224s
+user	0m0.011s
+sys	0m8.177s
